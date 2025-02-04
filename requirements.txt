@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-unfold
+pymysql
+mysqlclient
+pillow
+django-auto-logout
